@@ -1,0 +1,4 @@
+Folder test32 je ESP IDF projekt koji sam koristio. 
+U njemu se nalazi programski kod koji parsira podatke koje dobiva sa senzora. 
+U folderu kodovi su dva programska koda, jedan je isti kao ovaj u test32, a drugi samo ispisuje podatke sa senzora u bajtovima.
+Dok sam ih isprobavao sam ih samo copy-paste umjesto koda test32.c u projektu.
