@@ -1,1 +1,2 @@
 https://wiki.seeedstudio.com/Radar_MR24HPC1/
+https://files.seeedstudio.com/wiki/mmWave-radar/MR24HPC1_User_Manual-V2.0.pdf
